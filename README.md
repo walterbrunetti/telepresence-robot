@@ -2,7 +2,8 @@
 Arduino Jhonny Five project
 
 ### Next steps
-- Make Step motor to work
+- I'm not sure if servo controller example is correct in terms of max velocity, and params. Check that.
+- Make Step motor to work.
 
 
 ### Running
